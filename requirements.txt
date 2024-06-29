@@ -1,5 +1,4 @@
 discord
-english-words
 chess
 akinator.py
 Pillow
